@@ -2,7 +2,7 @@ package auth
 
 import (
 	"fmt"
-	"github.com/unsamdev/go-tktV2/sql"
+	"github.com/unsamdev/go-tklOracle/sql"
 	"net/http"
 )
 

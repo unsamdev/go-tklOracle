@@ -1,8 +1,8 @@
 package web
 
 import (
-	"github.com/unsamdev/go-tktV2/auth"
-	"github.com/unsamdev/go-tktV2/sql"
+	"github.com/unsamdev/go-tklOracle/auth"
+	"github.com/unsamdev/go-tklOracle/sql"
 	"net/http"
 )
 

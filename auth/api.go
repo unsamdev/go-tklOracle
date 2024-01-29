@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"github.com/unsamdev/go-tktV2/sql"
-	"github.com/unsamdev/go-tktV2/util"
+	"github.com/unsamdev/go-tklOracle/sql"
+	"github.com/unsamdev/go-tklOracle/util"
 	"golang.org/x/crypto/bcrypt"
 	"strings"
 	"time"

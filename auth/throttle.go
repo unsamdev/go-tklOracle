@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/unsamdev/go-tktV2/util"
+	"github.com/unsamdev/go-tklOracle/util"
 	"sync"
 	"time"
 )

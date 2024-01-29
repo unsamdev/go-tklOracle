@@ -5,7 +5,8 @@ import (
 	"database/sql"
 	"encoding/json"
 	"fmt"
-	"github.com/unsamdev/go-tktV2/util"
+	_ "github.com/godror/godror"
+	"github.com/unsamdev/go-tklOracle/util"
 	"reflect"
 	"time"
 )

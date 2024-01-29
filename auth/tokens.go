@@ -6,8 +6,6 @@ import (
 	"crypto/sha256"
 	"encoding/base64"
 	"encoding/json"
-	"github.com/unsamdev/go-tklOracle/sql"
-	"github.com/unsamdev/go-tklOracle/util"
 	"strings"
 	"sync"
 	"time"

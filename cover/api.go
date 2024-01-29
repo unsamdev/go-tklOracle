@@ -2,7 +2,6 @@ package cover
 
 import (
 	"bytes"
-	"github.com/unsamdev/go-tklOracle/util"
 	"io/ioutil"
 	"net/http"
 	"reflect"
